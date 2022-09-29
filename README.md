@@ -1,6 +1,6 @@
 # Ejercicio 25 instruccion repetitiva
 #
-#Suma de los primeros 10 numeros naturales
+# Suma de los primeros 10 numeros naturales
 
 #
 
